@@ -90,7 +90,7 @@ const FeedbackContentDialog = (props: FeedbackContentDialogProps) => {
                 type="button"
                 onClick={submit}
               >
-                Submit Feedback
+                フィードバックを送信
               </button>
             </div>
           </div>
